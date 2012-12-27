@@ -1,0 +1,10 @@
+{
+	"framework": "jasmine",
+	"src_files": [
+		"quiz.js",
+		"QuizTest.js"
+	],
+	"external_files" : [
+		"http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"
+	]
+}
